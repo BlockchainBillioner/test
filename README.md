@@ -5,7 +5,7 @@
 
 第一步：先点击上面的绿色“code”图标，再点击“Download ZIP”，在手机本地解压，可以得到加速器和图片教程
 
-第二步：百度网盘下载应用app（这里空间不能上传大应用）
+第二步：百度网盘下载应用app
 
 链接:https://pan.baidu.com/s/1ddR7AEw-2OSSPx-EJLlv9g?pwd=1234 
 提取码:1234
